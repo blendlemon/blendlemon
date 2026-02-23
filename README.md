@@ -1,4 +1,4 @@
-# Hi, I'm Diego González 👋
+# Hi, I'm Diego 👋
 
 Final-year student of **Web Application Development** (DAW) at IES Chan do Monte, Galicia, Spain. I also have a background in Computer Engineering and Business Administration, which gives me both a technical foundation and a broader business perspective.
 
